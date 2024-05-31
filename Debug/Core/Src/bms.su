@@ -1,0 +1,2 @@
+../Core/Src/bms.c:14:6:BMS_Init	24	static
+../Core/Src/bms.c:34:6:ElectricalManagement	24	static
